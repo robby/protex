@@ -1,6 +1,6 @@
 {
   "name": "protex",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "common prototype extensions",
   "keywords": ["prototype"],
   "homepage": "http://github.com/robby/protex",
@@ -22,7 +22,7 @@
       "url": "http://www.opensource.org/licenses/MIT"
     }
   ],
-  "_id": "protex@0.0.4",
+  "_id": "protex@0.0.5",
   "dependencies": {},
   "optionalDependencies": {},
   "_engineSupported": true,
